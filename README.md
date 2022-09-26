@@ -13,6 +13,6 @@ Pin it to see the live updates of BTCUSD pair on Binance
 * This extension uses Binance free API: https://api.binance.com/api/v1/ticker/price?symbol=BTCUSDT
 * This extension will work on any Device and any OS that can run Google Chrome and its extensions
 
-# Snapshot of extension
+# Screenshot of extension
 ![image](https://user-images.githubusercontent.com/88789894/192356296-d2e8cc79-6265-4c8e-a47d-073a069b95e2.png)
 
